@@ -40,7 +40,7 @@ print(f"Number of stones after {blinks_part2} blinks: {result_part2}")
 
 
 
-# Compute optimized results for initial-sample-stones
+# Compute optimized results for initial-stones
 result_part3 = process_stones_optimized(initial_stones, blinks_part1)
 result_part4 = process_stones_optimized(initial_stones, blinks_part2)
 
